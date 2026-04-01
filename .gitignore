@@ -1,0 +1,23 @@
+# Dependencias
+node_modules/
+
+# Archivos subidos por usuarios
+uploads/
+
+# Variables de entorno — NUNCA subir al repo
+.env
+
+# Cobertura de tests
+coverage/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
